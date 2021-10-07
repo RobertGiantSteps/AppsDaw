@@ -15,4 +15,4 @@
 
 ## Requisitos 
 
-  Para la instalación de los difernetes IDE´s es necesario la instalación de OpenJdk.
+  Para la instalación de los difernetes IDE´s es necesario la instalación de [OpenJdk](https://github.com/jpexposito/docencia/blob/master/comun/JDK.md).
